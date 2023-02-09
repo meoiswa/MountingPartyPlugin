@@ -1,0 +1,13 @@
+{
+  "Author": "Meoiswa",
+  "Name": "MountingParty",
+  "Punchline": "Automatic multi-seater roulette",
+  "Description": "Overrides Mount Roulette with multi-seater mounts while in a party",
+  "InternalName": "MountingParty",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "convenience",
+    "mounts",
+    "tweak"
+  ]
+}
